@@ -1,9 +1,9 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Javascript-DeepDive-Study/jsStudy&count_bg=%233DBCC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-## 🍀 Javascript Deep Dive study
-###### ✔  0. 2025.03.16(Sun) 20:00 ~ 20:30 : 스터디 일시, 진도 협의 & Setting
-###### 1회차. 2025.04.07(Mon) 21:00 ~ 22:30 : 4 ~ 6장
-
+## 🍀 Javascript Deep Dive study 일정
+| 회차 | 일시                | 목차                | 참여자               | 발표자           | 비고                       |
+| ---- |-------------------|-------------------|-------------------|---------------|--------------------------|
+| 0    | 2025.03.16(일) 20:00  | 스터디 일시, 진도 협의 & Setting | All     |               ||
+| 1    | 2025.04.07(월) 21:00 | 4~6장 | 창헌,수현,성현,세원,소영| 창헌,수현 | 소영님 불참  |
+| 2    | 2025.04.14(월) 21:00 | 7~9장 | |  |   |
 <br/>  
 
 ## 🥝 Members  
