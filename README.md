@@ -4,14 +4,15 @@
 | 0    | 2025.03.16(일) 20:00 | 일정 협의 | All     |               |:ledger:|
 | 1    | 2025.04.07(월) 21:00 | 4~6장 | 창헌,수현,성현,세원,소영| 창헌,수현 | :closed_book: 서영님 불참  |
 | 2    | 2025.04.14(월) 21:00 | 7~9장 | 창헌,수현,성현,소영,서영| 소영,성현 | :closed_book: 세원님 불참 |
-| 3    | 2025.04.21(월) 21:00 | 10~12장 | | 세원,서영 |   |
+| 3    | 2025.04.21(월) 21:00 | 10~12장 | 차주에 진행하기로 함 |  | :closed_book: 소영,세원님 불참  |
+| 4    | 2025.04.28(월) 21:00 | 10~15장 | | 서영,창헌,수현,소영 |   |
 <br/>  
 
 ## 🥝 Members  
 
-|[<img src="https://github.com/leechun1095.png" width="80">](https://github.com/leechun1095)|[<img src="https://github.com/saysuhyun.png" width="80">](https://github.com/saysuhyun) |[<img src="https://github.com/babydayo.png" width="80">](https://github.com/babydayo)|[<img src="https://github.com/muse9312.png" width="80">](https://github.com/muse9312)|[<img src="https://github.com/syyling.png" width="80">](https://github.com/syyling)| [<img src="https://github.com/soieu.png" width="80">](https://github.com/soieu) | 
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 창헌 | 수현 | 성현(다요) | 세원 | 서영 | 소영 |
+|[<img src="https://github.com/leechun1095.png" width="80">](https://github.com/leechun1095)|[<img src="https://github.com/saysuhyun.png" width="80">](https://github.com/saysuhyun) |[<img src="https://github.com/babydayo.png" width="80">](https://github.com/babydayo)|[<img src="https://github.com/syyling.png" width="80">](https://github.com/syyling)| [<img src="https://github.com/soieu.png" width="80">](https://github.com/soieu) | 
+|:---:|:---:|:---:|:---:|:---:|
+| 창헌 | 수현 | 성현(다요) | 서영 | 소영 |
 
 <br/>
 
