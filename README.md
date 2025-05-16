@@ -13,9 +13,9 @@
 
 ## 🥝 Members  
 
-|[<img src="https://github.com/leechun1095.png" width="80">](https://github.com/leechun1095)|[<img src="https://github.com/saysuhyun.png" width="80">](https://github.com/saysuhyun) |[<img src="https://github.com/babydayo.png" width="80">](https://github.com/babydayo)|[<img src="https://github.com/syyling.png" width="80">](https://github.com/syyling)| [<img src="https://github.com/soieu.png" width="80">](https://github.com/soieu) | 
-|:---:|:---:|:---:|:---:|:---:|
-| 창헌 | 수현 | 성현(다요) | 서영 | 소영 |
+|[<img src="https://github.com/leechun1095.png" width="80">](https://github.com/leechun1095)|[<img src="https://github.com/babydayo.png" width="80">](https://github.com/babydayo)|[<img src="https://github.com/syyling.png" width="80">](https://github.com/syyling)| [<img src="https://github.com/soieu.png" width="80">](https://github.com/soieu) | 
+|:---:|:---:|:---:|:---:|
+| 창헌 | 성현(다요) | 서영 | 소영 |
 
 <br/>
 
